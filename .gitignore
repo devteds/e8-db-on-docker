@@ -1,0 +1,5 @@
+data
+/log/*
+/tmp/*
+data/*
+.DS_Store
