@@ -4,9 +4,10 @@ Devteds [Episode #8](https://devteds.com/episodes/8-mysql-and-postgresql-with-do
 
 Run multiple versions of MySQL databases and PostgreSQL with Docker using Docker Compose. Test multiple options of connecting to the databases running in containers.
 
+[![Episode Video Link](https://s3.us-east-2.amazonaws.com/devteds/episodes/e8-db-on-docker.png)](https://www.devteds.com/episodes/8-mysql-and-postgresql-with-docker-in-development)
+
 [Episode video link](https://youtu.be/q5J3rtAGGNU)
 
-[![Episode Video Link](https://i.ytimg.com/vi/q5J3rtAGGNU/hqdefault.jpg)](https://youtu.be/q5J3rtAGGNU)
 
 Visit https://devteds.com to watch all the episodes
 
